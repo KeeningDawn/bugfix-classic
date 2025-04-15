@@ -1,0 +1,14 @@
+{
+	"files": {
+		"index.js": "6be68482552b78132e70f5485a971ba9abe758e12784c063b077963689d13ea5",
+		"lib/chat-sanitizer.js": "d1728d165581c5df7023dbc38859864b01e57f3f51371b4bac00e27c87fae26b",
+		"lib/swim-fix.js": "cac3fd2d683080155fd5e48d3d285174f2c9c472cfbd6fb83cc4c67cf5244de5",
+		"module.json": "455eedfd5bb436d40ccf3260a9e7d7a9f808bbba475d99bc64cdbc6d35ae1320"
+	},
+	"defs": {
+		"C_PLAYER_LOCATION": 5,
+		"S_CHAT": 2,
+		"S_PRIVATE_CHAT": 1,
+		"S_WHISPER": 2
+	}
+}

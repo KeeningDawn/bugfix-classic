@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "bugfix-classic",
+	"author": "Dawn / Caali / Pinkie Pie",
+	"version": "1.2",
+	"description": "A mod that contains critical client fixes intended for v29/v31 private servers.",
+	"options": {
+		"cliName": "Bugfix-Classic",
+		"guiName": "Bugfix (Classic)"
+	},
+	"servers": ["https://raw.githubusercontent.com/KeeningDawn/bugfix-classic/main/"],
+	"conflicts": ["swim-fix","chat-sanitizer","bugfix"]
+}
