@@ -1,9 +1,10 @@
 {
 	"files": {
 		"index.js": "6be68482552b78132e70f5485a971ba9abe758e12784c063b077963689d13ea5",
-		"lib/chat-sanitizer.js": "d1728d165581c5df7023dbc38859864b01e57f3f51371b4bac00e27c87fae26b",
-		"lib/swim-fix.js": "cac3fd2d683080155fd5e48d3d285174f2c9c472cfbd6fb83cc4c67cf5244de5",
-		"module.json": "455eedfd5bb436d40ccf3260a9e7d7a9f808bbba475d99bc64cdbc6d35ae1320"
+		"lib/chat-sanitizer.js": "c83761f53803ae185d4a0d84dff0c1e2be57a34bf0e42b159ff3c6b9fae401c6",
+		"lib/swim-fix.js": "856d82a8ddcc9e76d1aef30797dae11794278ac50917df60f6ed44405c740192",
+		"module.json": "a685ac3671a8f8f3983e66ad5d084905f0fb700bf3cd2b177ac254e33fca1852",
+		"readme.md": "a292c50923c2d0877497b218a4464b50f7e12d9ac1e0b92aef10e846fcd8d9e5"
 	},
 	"defs": {
 		"C_PLAYER_LOCATION": 5,
